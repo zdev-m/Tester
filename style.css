@@ -1,7 +1,5 @@
 /* =========================================================
-   ZEE THUMB — Neumorphic White Card Stylesheet (UPDATED)
-   Typography: Outfit (headings) + DM Sans (body)
-   MOD: Circular paste button + auto-focus (without persistent selection)
+   ZEE THUMB — Neumorphic White Card Stylesheet
    ========================================================= */
 
 /* ─── CSS CUSTOM PROPERTIES ──────────────────────────── */
@@ -399,7 +397,7 @@ details summary::-webkit-details-marker { display: none; }
   animation: heroReveal 0.8s 0.3s var(--ease-out) both;
 }
 
-/* ─── RESULTS SECTION (same, untouched) ─────────────── */
+/* ─── RESULTS SECTION ─────────────────────────────── */
 .results-section {
   max-width: 900px; margin: 0 auto;
   padding: 0 24px 60px;
